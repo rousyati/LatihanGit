@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    Selamat Datang Mahasiswa
+    Selamat Datang
 </body>
 
 </html>
